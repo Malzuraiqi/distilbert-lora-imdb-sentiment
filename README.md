@@ -19,8 +19,8 @@ Parameter-Efficient Fine-Tuning (PEFT) of a DistilBERT model for sentiment class
 
 | Metric | Score |
 |---|---|
-| Test accuracy (full 25k dataset) | **90.8%** |
-| Baseline (shuffled 500-sample subset) | **85.6%** |
+| Test accuracy (full 25k dataset) | **91.2%** |
+| Baseline (shuffled 500-sample subset) | **86%** |
 
 ## Key Learnings & Debugging
 
